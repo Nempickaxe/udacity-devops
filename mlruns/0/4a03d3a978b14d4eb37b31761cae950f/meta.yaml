@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nemishkanwar/code/udacity/mlruns/0/4a03d3a978b14d4eb37b31761cae950f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a03d3a978b14d4eb37b31761cae950f
+run_name: efficient-deer-678
+run_uuid: 4a03d3a978b14d4eb37b31761cae950f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677410478723
+status: 1
+tags: []
+user_id: nemishkanwar
