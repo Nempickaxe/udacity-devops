@@ -8,8 +8,7 @@ In this project we will build such a pipeline.
 
 ### Project Links
 ```
-Weights & Biases project link: https://wandb.ai/nicholas-dinicola/nyc_airbnb?workspace=user-nicholas-dinicola
-Github repository link: https://github.com/nicholas-dinicola/ML-pipeline-short-term-rental-prices-NYC
+Github repository link: https://github.com/Nempickaxe/udacity-devops
 ```
 
 ## Table of contents
@@ -44,13 +43,13 @@ and click on `Fork` in the upper right corner. This will create a fork in your G
 repository that is under your control. Now clone the repository locally so you can start working on it:
 
 ```
-git clone https://github.com/[your github username]/nd0821-c2-build-model-workflow-starter.git
+git clone https://github.com/udacity/build-ml-pipeline-for-short-term-rental-prices
 ```
 
 and go into the repository:
 
 ```
-cd nd0821-c2-build-model-workflow-starter
+cd build-ml-pipeline-for-short-term-rental-prices
 ```
 Commit and push to the repository often while you make progress towards the solution. Remember 
 to add meaningful commit messages.
