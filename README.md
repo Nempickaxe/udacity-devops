@@ -7,10 +7,10 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 In this project we will build such a pipeline.
 
 ### Project Links
-```
-Github repository link: [Github link](#https://github.com/Nempickaxe/udacity-devops)
-WANDB: [WANDB link](#https://wandb.ai/vineetkt/nyc_airbnb)
-```
+
+Github repository link: [Github link](https://github.com/Nempickaxe/udacity-devops)
+WANDB: [WANDB link](https://wandb.ai/vineetkt/nyc_airbnb)
+
 
 ## Table of contents
 
